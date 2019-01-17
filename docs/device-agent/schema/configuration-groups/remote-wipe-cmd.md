@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Remote wipe command enables the operator to wipe out all data on the device and restore the device to a clean state. Remote wipe does not uninstall any applications or software that got installed.
+The Remote wipe command enables an operator to wipe out all data on the device and restore the device to a clean state. Remote wipe does not uninstall any applications or software that got installed.
 
 | Handler Identifier | Plug-in Binary |
 |----|----|
